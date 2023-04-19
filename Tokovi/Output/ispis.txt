@@ -1,0 +1,3 @@
+vrednosti 
+koje 
+su trenutno unutar fajla
